@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1540212190 source:d:\c++2\wage\main.cpp
+	<iostream>
+	<WAGE.H>
+
+1541142784 d:\c++2\wage\include\wage.h
+	<iostream>
+
+1541143150 source:d:\c++2\wage\src\wage.cpp
+	"Wage.h"
+	<iostream>
+
