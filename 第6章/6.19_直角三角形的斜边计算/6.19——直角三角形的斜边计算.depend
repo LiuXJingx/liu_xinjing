@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542607512 source:c:\users\administrator\desktop\c++\第6章\6.19——直角三角形的斜边计算\main.cpp
+	<iostream>
+	<cmath>
+
