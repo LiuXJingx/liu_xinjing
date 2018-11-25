@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1542958574 source:c:\documents and settings\administrator\桌面\第5章\5.15_修改gradebook\main.cpp
+	"GradeBook.h"
+
+1542958686 c:\documents and settings\administrator\桌面\第5章\5.15_修改gradebook\include\gradebook.h
+	<string>
+
+1542958576 source:h:\c++\第5章\5.15_修改gradebook\main.cpp
+	"GradeBook.h"
+
+1543152346 h:\c++\第5章\5.15_修改gradebook\include\gradebook.h
+	<string>
+
+1543152316 source:h:\c++\第5章\5.15_修改gradebook\src\gradebook.cpp
+	"GradeBook.h"
+	<iostream>
+

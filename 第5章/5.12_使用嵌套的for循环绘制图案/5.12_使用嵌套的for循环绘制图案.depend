@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1542956183 source:c:\documents and settings\administrator\桌面\第5章\5.12_使用嵌套的for循环绘制图案\main.cpp
+	<iostream>
+
+1543160938 source:h:\c++\第5章\5.12_使用嵌套的for循环绘制图案\main.cpp
+	<iostream>
+	<iomanip>
+
