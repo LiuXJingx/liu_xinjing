@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1543899062 source:c:\users\administrator\desktop\c++\第7章\7.13_利用array对象去重\main.cpp
+	<iostream>
+	<array>
+

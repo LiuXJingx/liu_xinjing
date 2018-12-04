@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543907152 source:c:\users\administrator\desktop\c++\第7章\7.21_销售汇总\main.cpp
+	<iostream>
+	<iomanip>
+	<array>
+
