@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543918942 source:c:\users\administrator\desktop\c++\第7章\7.27_爱拉托逊斯筛法\main.cpp
+	<iostream>
+	<iomanip>
+	<array>
+
