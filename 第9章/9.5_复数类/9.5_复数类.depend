@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1544540065 source:c:\users\administrator\desktop\c++\第9章\9.5_复数类\main.cpp
+	<iostream>
+	"Complex.h"
+
+1544540065 c:\users\administrator\desktop\c++\第9章\9.5_复数类\include\complex.h
+
+1544540065 source:c:\users\administrator\desktop\c++\第9章\9.5_复数类\src\complex.cpp
+	<iostream>
+	"Complex.h"
+

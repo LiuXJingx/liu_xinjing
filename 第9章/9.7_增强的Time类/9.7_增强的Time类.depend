@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1544540945 source:c:\users\administrator\desktop\c++\第9章\9.7_增强的time类\main.cpp
+	<iostream>
+	"Time.h"
+
+1544540945 c:\users\administrator\desktop\c++\第9章\9.7_增强的time类\include\time.h
+
+1544540945 source:c:\users\administrator\desktop\c++\第9章\9.7_增强的time类\src\time.cpp
+	<iostream>
+	<iomanip>
+	"Time.h"
+

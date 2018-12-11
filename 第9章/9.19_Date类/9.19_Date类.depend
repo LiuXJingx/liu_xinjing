@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1544542631 source:c:\users\administrator\desktop\c++\第9章\9.19_date类\src\employee.cpp
+	"Employee.h"
+	<iostream>
+	"Date.h"
+
+1544542597 c:\users\administrator\desktop\c++\第9章\9.19_date类\include\employee.h
+	<string>
+	"Date.h"
+
+1544542597 c:\users\administrator\desktop\c++\第9章\9.19_date类\include\date.h
+
+1544542644 source:c:\users\administrator\desktop\c++\第9章\9.19_date类\main.cpp
+	<iostream>
+	"Date.h"
+	"Employee.h"
+
+1544542597 source:c:\users\administrator\desktop\c++\第9章\9.19_date类\src\date.cpp
+	"Date.h"
+	<array>
+	<iostream>
+	<stdexcept>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1544540666 source:c:\users\administrator\desktop\c++\第9章\9.6_有理数类\main.cpp
+	<iostream>
+	"Rational.h"
+
+1544540666 c:\users\administrator\desktop\c++\第9章\9.6_有理数类\include\rational.h
+
+1544540527 source:c:\users\administrator\desktop\c++\第9章\9.6_有理数类\src\rational.cpp
+	<iostream>
+	"Rational.h"
+

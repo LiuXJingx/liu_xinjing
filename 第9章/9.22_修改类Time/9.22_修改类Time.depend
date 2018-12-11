@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1544531169 source:c:\users\administrator\desktop\c++\第9章\9.22_修改类time\main.cpp
+	<iostream>
+	<stdexcept>
+	"Time.h"
+
+1544531140 c:\users\administrator\desktop\c++\第9章\9.22_修改类time\include\time.h
+
+1544531327 source:c:\users\administrator\desktop\c++\第9章\9.22_修改类time\src\time.cpp
+	<iostream>
+	<iomanip>
+	<stdexcept>
+	"Time.h"
+
