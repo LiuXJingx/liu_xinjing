@@ -5,7 +5,7 @@
 
 using namespace std;
 
-void isperfect(int a)
+void number(int a)
 {
     double s;
     int n=1;
@@ -38,7 +38,7 @@ int main()
     int a;
     while(a<=1000)
     {
-        isperfect(a);
+        number(a);
         a--;
     }
     return 0;

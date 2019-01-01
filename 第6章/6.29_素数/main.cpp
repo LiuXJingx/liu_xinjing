@@ -4,7 +4,7 @@
 
 using namespace std;
 
-int isperfect(int a)
+int number(int a)
 {
     double s;
     int n=1;
@@ -29,8 +29,8 @@ int main()
     int a;
     cout<<"Enter a number: "<<endl;
     cin>>a;
-    i=isperfect(a);
-    if(i>1)cout<<a<<"is not a prime number!";
-    else cout<<a<<"is a prime number!";
+    i=number(a);
+    if(i>1)cout<<a<<"is not a ËØÊı!";
+    else cout<<a<<"is a ËØÊı!";
     return 0;
 }

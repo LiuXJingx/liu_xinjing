@@ -6,7 +6,7 @@ using namespace std;
 
 Time::Time()
 {
-   const time_t currentTime = Time( 0 );
+   const tim¡¢e_t currentTime = Time( 0 );
    const tm *localTime = localtime( &currentTime );
    setTime( localTime->tm_hour, localTime->tm_min, localTime->tm_sec );
 }
