@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1552206041 source:c:\users\administrator\desktop\c++\第10章\三阶矩阵相加\src\plus.cpp
+	"Plus.h"
+	<iomanip>
+	<string>
+
+1552205771 c:\users\administrator\desktop\c++\第10章\三阶矩阵相加\include\plus.h
+	<iostream>
+
+1552205907 source:c:\users\administrator\desktop\c++\第10章\三阶矩阵相加\main.cpp
+	<iostream>
+	<string>
+	"Plus.h"
+

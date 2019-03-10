@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1552207347 source:c:\users\administrator\desktop\c++\第10章\三阶矩阵相乘\main.cpp
+	<iostream>
+	<string>
+	"Multiple.h"
+
+1552207301 c:\users\administrator\desktop\c++\第10章\三阶矩阵相乘\include\multiple.h
+	<iostream>
+
+1552207347 source:c:\users\administrator\desktop\c++\第10章\三阶矩阵相乘\src\multiple.cpp
+	"Multiple.h"
+	<iomanip>
+	<string>
+
