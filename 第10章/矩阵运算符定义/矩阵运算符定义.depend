@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1552802160 source:h:\c++\第10章\矩阵运算符定义\main.cpp
+	<iostream>
+	"matrix.h"
+
+1552802136 h:\c++\第10章\矩阵运算符定义\include\matrix.h
+	<iostream>
+
