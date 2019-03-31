@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554018979 source:c:\users\administrator\desktop\c++\第10章\多项式类\main.cpp
+	<iostream>
+	"Polynomial.h"
+
+1554018979 c:\users\administrator\desktop\c++\第10章\多项式类\include\polynomial.h
+	<iostream>
+
+1554019069 source:c:\users\administrator\desktop\c++\第10章\多项式类\src\polynomial.cpp
+	"Polynomial.h"
+	<iomanip>
+	<iostream>
+
