@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1555842997 source:c:\users\administrator\desktop\c++\第12章\使用账户层次的多态银行程序\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	"Account.h"
+	"SavingsAccount.h"
+	"CheckingAccount.h"
+
+1555842998 c:\users\administrator\desktop\c++\第12章\使用账户层次的多态银行程序\include\account.h
+
+1555842997 c:\users\administrator\desktop\c++\第12章\使用账户层次的多态银行程序\include\savingsaccount.h
+	"Account.h"
+
+1555842997 c:\users\administrator\desktop\c++\第12章\使用账户层次的多态银行程序\include\checkingaccount.h
+	"Account.h"
+
+1555842998 source:c:\users\administrator\desktop\c++\第12章\使用账户层次的多态银行程序\src\account.cpp
+	<iostream>
+	"Account.h"
+
+1555842997 source:c:\users\administrator\desktop\c++\第12章\使用账户层次的多态银行程序\src\savingsaccount.cpp
+	"SavingsAccount.h"
+
+1555843049 source:c:\users\administrator\desktop\c++\第12章\使用账户层次的多态银行程序\src\checkingaccount.cpp
+	"CheckingAccount.h"
+	<iostream>
+

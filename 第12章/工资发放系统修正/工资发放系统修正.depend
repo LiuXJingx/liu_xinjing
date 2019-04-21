@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1555842339 source:c:\users\administrator\desktop\c++\第12章\工资发放系统修正\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<typeinfo>
+	<ctime>
+	"Employee.h"
+	"SalariedEmployee.h"
+	"HourlyEmployee.h"
+	"CommissionEmployee.h"
+	"BasePlusCommissionEmployee.h"
+
+1555842339 c:\users\administrator\desktop\c++\第12章\工资发放系统修正\include\employee.h
+	<string>
+	"Date.h"
+
+1555842339 c:\users\administrator\desktop\c++\第12章\工资发放系统修正\include\date.h
+	<iostream>
+
+1555842339 c:\users\administrator\desktop\c++\第12章\工资发放系统修正\include\salariedemployee.h
+	"Employee.h"
+
+1555842339 c:\users\administrator\desktop\c++\第12章\工资发放系统修正\include\hourlyemployee.h
+	"Employee.h"
+
+1555842339 c:\users\administrator\desktop\c++\第12章\工资发放系统修正\include\commissionemployee.h
+	"Employee.h"
+
+1555842339 c:\users\administrator\desktop\c++\第12章\工资发放系统修正\include\basepluscommissionemployee.h
+	"CommissionEmployee.h"
+
+1555842339 source:c:\users\administrator\desktop\c++\第12章\工资发放系统修正\src\basepluscommissionemployee.cpp
+	<iostream>
+	"BasePlusCommissionEmployee.h"
+
+1555842339 source:c:\users\administrator\desktop\c++\第12章\工资发放系统修正\src\commissionemployee.cpp
+	<iostream>
+	"CommissionEmployee.h"
+
+1555842339 source:c:\users\administrator\desktop\c++\第12章\工资发放系统修正\src\employee.cpp
+	<iostream>
+	"Employee.h"
+
+1555842339 source:c:\users\administrator\desktop\c++\第12章\工资发放系统修正\src\hourlyemployee.cpp
+	<iostream>
+	"HourlyEmployee.h"
+
+1555842339 source:c:\users\administrator\desktop\c++\第12章\工资发放系统修正\src\salariedemployee.cpp
+	<iostream>
+	"SalariedEmployee.h"
+
